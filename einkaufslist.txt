@@ -3,3 +3,5 @@ Meersalz
 Jodsal
 Tafelsalz
 Grobes Salz
+Pfeffer
+Zucker?
